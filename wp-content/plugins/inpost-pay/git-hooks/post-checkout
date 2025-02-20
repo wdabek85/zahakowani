@@ -1,0 +1,7 @@
+#!/bin/bash
+composer install
+. $HOME/.nvm/nvm.sh
+./"$NVM_DIR"/nvm.sh install 14
+./"$NVM_DIR"/nvm.sh use 14
+npm install
+npm run build

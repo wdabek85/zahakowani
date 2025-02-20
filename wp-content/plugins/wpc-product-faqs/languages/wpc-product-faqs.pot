@@ -1,0 +1,179 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product FAQs for WooCommerce 2.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-product-faqs\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-23T02:45:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-product-faqs\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product FAQs for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Ultimate solution to manage WooCommerce product FAQs."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-product-faqs.php:95
+msgctxt "Post Type General Name"
+msgid "Product FAQs"
+msgstr ""
+
+#: wpc-product-faqs.php:96
+msgctxt "Post Type Singular Name"
+msgid "Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:97
+msgid "Add New Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:98
+msgid "Add New"
+msgstr ""
+
+#: wpc-product-faqs.php:99
+msgid "Edit Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:100
+msgid "Update Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:101
+msgid "Search Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:105
+msgid "Product FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:132
+msgid "Configuration"
+msgstr ""
+
+#: wpc-product-faqs.php:146
+msgid "Select which products you want to add this FAQs automatically. If \"None\" is set, you can still manually choose to add this in the \"FAQs\" tab of each individual product page."
+msgstr ""
+
+#: wpc-product-faqs.php:152
+msgid "None"
+msgstr ""
+
+#: wpc-product-faqs.php:153
+msgid "All products"
+msgstr ""
+
+#: wpc-product-faqs.php:221
+#: wpc-product-faqs.php:270
+msgid "How to use?"
+msgstr ""
+
+#: wpc-product-faqs.php:237
+msgid "Community support"
+msgstr ""
+
+#: wpc-product-faqs.php:247
+#: wpc-product-faqs.php:257
+msgid "WPC Product FAQs"
+msgstr ""
+
+#: wpc-product-faqs.php:247
+msgid "Product FAQs"
+msgstr ""
+
+#. translators: stars
+#: wpc-product-faqs.php:260
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-product-faqs.php:262
+msgid "Reviews"
+msgstr ""
+
+#: wpc-product-faqs.php:263
+msgid "Changelog"
+msgstr ""
+
+#: wpc-product-faqs.php:264
+msgid "Discussion"
+msgstr ""
+
+#: wpc-product-faqs.php:273
+msgid "Global FAQs"
+msgstr ""
+
+#: wpc-product-faqs.php:276
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-product-faqs.php:284
+msgid "1. Global FAQs: Switch to Global FAQs tab to add the FAQs then you can use these FAQs in each product."
+msgstr ""
+
+#: wpc-product-faqs.php:287
+msgid "2. Product basis FAQs: When adding/editing the product you can choose the FAQs tab then add some global/custom FAQs as you want."
+msgstr ""
+
+#: wpc-product-faqs.php:315
+#: wpc-product-faqs.php:383
+msgid "FAQ title"
+msgstr ""
+
+#: wpc-product-faqs.php:374
+msgid "Move"
+msgstr ""
+
+#: wpc-product-faqs.php:376
+msgid "Remove"
+msgstr ""
+
+#: wpc-product-faqs.php:430
+msgid "Global FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:431
+msgid "Custom FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:433
+msgid "+ Add new FAQ"
+msgstr ""
+
+#: wpc-product-faqs.php:474
+#: wpc-product-faqs.php:656
+msgid "FAQs"
+msgstr ""
+
+#: wpc-product-faqs.php:679
+msgid "Product wasn't returned."
+msgstr ""
+
+#: wpc-product-faqs.php:689
+msgid "Manage Global FAQs"
+msgstr ""
+
+#. translators: shortcode
+#: wpc-product-faqs.php:692
+msgid "You can use the shortcode %s to show this product FAQs."
+msgstr ""

@@ -1,0 +1,125 @@
+.wpcpf-faqs {
+    position: relative;
+}
+
+.wpcpf-faqs .wpcpf-faq {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #eeeeee;
+    border-left: 4px solid #dddddd;
+}
+
+.wpcpf-faqs .wpcpf-faq .wpcpf-faq-line {
+    margin-top: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+.wpcpf-faqs .wpcpf-faq .wpcpf-faq-line textarea {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+}
+
+.wpcpf-faqs .wpcpf-faq .wpcpf-faq-line label {
+    float: none !important;
+    width: auto !important;
+    margin: 0 !important;
+}
+
+.wpcpf-faq-move {
+    cursor: move !important;
+    margin: 0 !important;
+}
+
+.wpcpf-faq-label {
+    display: inline-block;
+    vertical-align: middle;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+    color: #999;
+}
+
+.wpcpf-faq-remove {
+    float: right !important;
+}
+
+.wpcpf-faqs .wpcpf-faq:nth-child(2n+2) {
+    background-color: #fafafa;
+}
+
+#wpcpf_settings {
+    padding: 15px;
+}
+
+#wpcpf_settings label {
+    float: none !important;
+    margin-left: 0 !important;
+    width: auto !important;
+}
+
+#wpcpf_settings .wpcpf-global {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border-left: 4px solid #0073aa;
+}
+
+/* Select2 */
+
+.wpcpf-faqs .wpcpf-faq .select2-container {
+    width: 100% !important;
+}
+
+.wpcpf-faqs .wpcpf-faq .select2-container .select2-selection {
+    overflow: hidden !important;
+}
+
+.wpcpf-faqs .wpcpf-faq .select2-container .select2-selection .select2-selection__rendered {
+    white-space: normal !important;
+    width: auto;
+    float: left;
+}
+
+/* Configuration */
+
+.wpcpf_configuration_table {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_tbody {
+    width: 100%;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_tr {
+    width: 100%;
+    max-width: 100%;
+    padding: 5px 0;
+    box-sizing: border-box;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_th {
+    width: 140px;
+    min-width: 140px;
+    max-width: 140px;
+    padding: 5px 10px 5px 0;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_td {
+    padding: 5px 0;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_td > div {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.wpcpf_configuration_table .wpcpf_configuration_td .select2-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    float: none !important;
+    box-sizing: border-box !important;
+    display: inline-block !important;
+}

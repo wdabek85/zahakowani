@@ -1,0 +1,2536 @@
+@charset "UTF-8";
+/* ===== Start ICONS CSS ===== */
+@font-face {
+  font-family: "autozpro-icon";
+  src: url("./assets/fonts/icons/autozpro-icon-1.0.17.eot");
+  src: url("./assets/fonts/icons/autozpro-icon-1.0.17.eot?#iefix") format("eot"), url("./assets/fonts/icons/autozpro-icon-1.0.17.woff2") format("woff2"), url("./assets/fonts/icons/autozpro-icon-1.0.17.woff") format("woff"), url("./assets/fonts/icons/autozpro-icon-1.0.17.ttf") format("truetype"), url("./assets/fonts/icons/autozpro-icon-1.0.17.svg#autozpro-icon-1.0.17") format("svg");
+}
+[class*=autozpro-icon-] {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.autozpro-icon-account:before {
+  content: "";
+}
+
+.autozpro-icon-address:before {
+  content: "";
+}
+
+.autozpro-icon-angle-down:before {
+  content: "";
+}
+
+.autozpro-icon-angle-left:before {
+  content: "";
+}
+
+.autozpro-icon-angle-right:before {
+  content: "";
+}
+
+.autozpro-icon-angle-up:before {
+  content: "";
+}
+
+.autozpro-icon-arrow-left:before {
+  content: "";
+}
+
+.autozpro-icon-arrow-right:before {
+  content: "";
+}
+
+.autozpro-icon-bag-alt:before {
+  content: "";
+}
+
+.autozpro-icon-calendar:before {
+  content: "";
+}
+
+.autozpro-icon-cart:before {
+  content: "";
+}
+
+.autozpro-icon-chat:before {
+  content: "";
+}
+
+.autozpro-icon-check-a:before {
+  content: "";
+}
+
+.autozpro-icon-check-dot:before {
+  content: "";
+}
+
+.autozpro-icon-check-square-solid:before {
+  content: "";
+}
+
+.autozpro-icon-clock:before {
+  content: "";
+}
+
+.autozpro-icon-compare:before {
+  content: "";
+}
+
+.autozpro-icon-dot-1:before {
+  content: "";
+}
+
+.autozpro-icon-eye:before {
+  content: "";
+}
+
+.autozpro-icon-facebook-f:before {
+  content: "";
+}
+
+.autozpro-icon-featured:before {
+  content: "";
+}
+
+.autozpro-icon-filter-ul:before {
+  content: "";
+}
+
+.autozpro-icon-google-plus-g:before {
+  content: "";
+}
+
+.autozpro-icon-help-center:before {
+  content: "";
+}
+
+.autozpro-icon-laurel-star:before {
+  content: "";
+}
+
+.autozpro-icon-linkedin-in:before {
+  content: "";
+}
+
+.autozpro-icon-list-ul:before {
+  content: "";
+}
+
+.autozpro-icon-long-arrow-left:before {
+  content: "";
+}
+
+.autozpro-icon-long-arrow-right:before {
+  content: "";
+}
+
+.autozpro-icon-pen:before {
+  content: "";
+}
+
+.autozpro-icon-phone:before {
+  content: "";
+}
+
+.autozpro-icon-play:before {
+  content: "";
+}
+
+.autozpro-icon-popular:before {
+  content: "";
+}
+
+.autozpro-icon-prize:before {
+  content: "";
+}
+
+.autozpro-icon-quote:before {
+  content: "";
+}
+
+.autozpro-icon-shopping-bag:before {
+  content: "";
+}
+
+.autozpro-icon-sliders-v:before {
+  content: "";
+}
+
+.autozpro-icon-steering:before {
+  content: "";
+}
+
+.autozpro-icon-tools:before {
+  content: "";
+}
+
+.autozpro-icon-truck-check:before {
+  content: "";
+}
+
+.autozpro-icon-adobe:before {
+  content: "";
+}
+
+.autozpro-icon-amazon:before {
+  content: "";
+}
+
+.autozpro-icon-android:before {
+  content: "";
+}
+
+.autozpro-icon-angular:before {
+  content: "";
+}
+
+.autozpro-icon-apper:before {
+  content: "";
+}
+
+.autozpro-icon-apple:before {
+  content: "";
+}
+
+.autozpro-icon-atlassian:before {
+  content: "";
+}
+
+.autozpro-icon-behance:before {
+  content: "";
+}
+
+.autozpro-icon-bitbucket:before {
+  content: "";
+}
+
+.autozpro-icon-bitcoin:before {
+  content: "";
+}
+
+.autozpro-icon-bity:before {
+  content: "";
+}
+
+.autozpro-icon-bluetooth:before {
+  content: "";
+}
+
+.autozpro-icon-btc:before {
+  content: "";
+}
+
+.autozpro-icon-centos:before {
+  content: "";
+}
+
+.autozpro-icon-chrome:before {
+  content: "";
+}
+
+.autozpro-icon-codepen:before {
+  content: "";
+}
+
+.autozpro-icon-cpanel:before {
+  content: "";
+}
+
+.autozpro-icon-discord:before {
+  content: "";
+}
+
+.autozpro-icon-dochub:before {
+  content: "";
+}
+
+.autozpro-icon-docker:before {
+  content: "";
+}
+
+.autozpro-icon-dribbble:before {
+  content: "";
+}
+
+.autozpro-icon-dropbox:before {
+  content: "";
+}
+
+.autozpro-icon-drupal:before {
+  content: "";
+}
+
+.autozpro-icon-ebay:before {
+  content: "";
+}
+
+.autozpro-icon-facebook:before {
+  content: "";
+}
+
+.autozpro-icon-figma:before {
+  content: "";
+}
+
+.autozpro-icon-firefox:before {
+  content: "";
+}
+
+.autozpro-icon-google-plus:before {
+  content: "";
+}
+
+.autozpro-icon-google:before {
+  content: "";
+}
+
+.autozpro-icon-grunt:before {
+  content: "";
+}
+
+.autozpro-icon-gulp:before {
+  content: "";
+}
+
+.autozpro-icon-html5:before {
+  content: "";
+}
+
+.autozpro-icon-joomla:before {
+  content: "";
+}
+
+.autozpro-icon-link-brand:before {
+  content: "";
+}
+
+.autozpro-icon-linkedin:before {
+  content: "";
+}
+
+.autozpro-icon-mailchimp:before {
+  content: "";
+}
+
+.autozpro-icon-opencart:before {
+  content: "";
+}
+
+.autozpro-icon-paypal:before {
+  content: "";
+}
+
+.autozpro-icon-pinterest-p:before {
+  content: "";
+}
+
+.autozpro-icon-reddit:before {
+  content: "";
+}
+
+.autozpro-icon-skype:before {
+  content: "";
+}
+
+.autozpro-icon-slack:before {
+  content: "";
+}
+
+.autozpro-icon-snapchat:before {
+  content: "";
+}
+
+.autozpro-icon-spotify:before {
+  content: "";
+}
+
+.autozpro-icon-trello:before {
+  content: "";
+}
+
+.autozpro-icon-twitter-t:before {
+  content: "";
+}
+
+.autozpro-icon-twitter:before {
+  content: "";
+}
+
+.autozpro-icon-vimeo:before {
+  content: "";
+}
+
+.autozpro-icon-whatsapp:before {
+  content: "";
+}
+
+.autozpro-icon-wordpress:before {
+  content: "";
+}
+
+.autozpro-icon-yoast:before {
+  content: "";
+}
+
+.autozpro-icon-youtube:before {
+  content: "";
+}
+
+.autozpro-icon-360:before {
+  content: "";
+}
+
+.autozpro-icon-bars:before {
+  content: "";
+}
+
+.autozpro-icon-caret-down:before {
+  content: "";
+}
+
+.autozpro-icon-caret-left:before {
+  content: "";
+}
+
+.autozpro-icon-caret-right:before {
+  content: "";
+}
+
+.autozpro-icon-caret-up:before {
+  content: "";
+}
+
+.autozpro-icon-cart-empty:before {
+  content: "";
+}
+
+.autozpro-icon-check-square:before {
+  content: "";
+}
+
+.autozpro-icon-circle:before {
+  content: "";
+}
+
+.autozpro-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.autozpro-icon-comment:before {
+  content: "";
+}
+
+.autozpro-icon-comments:before {
+  content: "";
+}
+
+.autozpro-icon-contact:before {
+  content: "";
+}
+
+.autozpro-icon-credit-card:before {
+  content: "";
+}
+
+.autozpro-icon-dot-circle:before {
+  content: "";
+}
+
+.autozpro-icon-edit:before {
+  content: "";
+}
+
+.autozpro-icon-envelope:before {
+  content: "";
+}
+
+.autozpro-icon-expand-alt:before {
+  content: "";
+}
+
+.autozpro-icon-external-link-alt:before {
+  content: "";
+}
+
+.autozpro-icon-file-alt:before {
+  content: "";
+}
+
+.autozpro-icon-file-archive:before {
+  content: "";
+}
+
+.autozpro-icon-filter:before {
+  content: "";
+}
+
+.autozpro-icon-folder-open:before {
+  content: "";
+}
+
+.autozpro-icon-folder:before {
+  content: "";
+}
+
+.autozpro-icon-frown:before {
+  content: "";
+}
+
+.autozpro-icon-gift:before {
+  content: "";
+}
+
+.autozpro-icon-grid:before {
+  content: "";
+}
+
+.autozpro-icon-grip-horizontal:before {
+  content: "";
+}
+
+.autozpro-icon-heart-fill:before {
+  content: "";
+}
+
+.autozpro-icon-heart:before {
+  content: "";
+}
+
+.autozpro-icon-history:before {
+  content: "";
+}
+
+.autozpro-icon-home:before {
+  content: "";
+}
+
+.autozpro-icon-info-circle:before {
+  content: "";
+}
+
+.autozpro-icon-instagram:before {
+  content: "";
+}
+
+.autozpro-icon-level-up-alt:before {
+  content: "";
+}
+
+.autozpro-icon-list:before {
+  content: "";
+}
+
+.autozpro-icon-map-marker-check:before {
+  content: "";
+}
+
+.autozpro-icon-meh:before {
+  content: "";
+}
+
+.autozpro-icon-minus-circle:before {
+  content: "";
+}
+
+.autozpro-icon-minus:before {
+  content: "";
+}
+
+.autozpro-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.autozpro-icon-money-bill:before {
+  content: "";
+}
+
+.autozpro-icon-pencil-alt:before {
+  content: "";
+}
+
+.autozpro-icon-plus-circle:before {
+  content: "";
+}
+
+.autozpro-icon-plus:before {
+  content: "";
+}
+
+.autozpro-icon-random:before {
+  content: "";
+}
+
+.autozpro-icon-reply-all:before {
+  content: "";
+}
+
+.autozpro-icon-reply:before {
+  content: "";
+}
+
+.autozpro-icon-search-plus:before {
+  content: "";
+}
+
+.autozpro-icon-search:before {
+  content: "";
+}
+
+.autozpro-icon-shield-check:before {
+  content: "";
+}
+
+.autozpro-icon-shopping-basket:before {
+  content: "";
+}
+
+.autozpro-icon-shopping-cart:before {
+  content: "";
+}
+
+.autozpro-icon-sign-out-alt:before {
+  content: "";
+}
+
+.autozpro-icon-smile:before {
+  content: "";
+}
+
+.autozpro-icon-spinner:before {
+  content: "";
+}
+
+.autozpro-icon-square:before {
+  content: "";
+}
+
+.autozpro-icon-star:before {
+  content: "";
+}
+
+.autozpro-icon-store:before {
+  content: "";
+}
+
+.autozpro-icon-sync:before {
+  content: "";
+}
+
+.autozpro-icon-tachometer-alt:before {
+  content: "";
+}
+
+.autozpro-icon-th-large:before {
+  content: "";
+}
+
+.autozpro-icon-th-list:before {
+  content: "";
+}
+
+.autozpro-icon-thumbtack:before {
+  content: "";
+}
+
+.autozpro-icon-ticket:before {
+  content: "";
+}
+
+.autozpro-icon-times-circle:before {
+  content: "";
+}
+
+.autozpro-icon-times:before {
+  content: "";
+}
+
+.autozpro-icon-trophy-alt:before {
+  content: "";
+}
+
+.autozpro-icon-truck:before {
+  content: "";
+}
+
+.autozpro-icon-user-headset:before {
+  content: "";
+}
+
+.autozpro-icon-user-shield:before {
+  content: "";
+}
+
+.autozpro-icon-user:before {
+  content: "";
+}
+
+.autozpro-icon-video:before {
+  content: "";
+}
+
+.autozpro-icon-wishlist-empty:before {
+  content: "";
+}
+
+/* ===== End ICONS CSS ===== */
+.editor-styles-wrapper blockquote,
+.hentry .entry-content blockquote {
+  position: relative;
+}
+.editor-styles-wrapper blockquote:before,
+.hentry .entry-content blockquote:before {
+  position: absolute;
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  left: 5.5%;
+  top: 30px;
+  padding: 15px 0;
+  color: var(--primary);
+  font-size: 44px;
+}
+
+.autozpro-social ul {
+  margin: 0;
+  list-style-type: none;
+}
+.autozpro-social ul li {
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 1;
+}
+.autozpro-social ul li:last-child {
+  margin-right: 0;
+}
+.autozpro-social ul li a:before {
+  position: relative;
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.autozpro-social ul li a[href*=twitter]:before {
+  content: "";
+  color: #1DA1F2;
+}
+.autozpro-social ul li a[href*=instagram]:before {
+  content: "";
+  color: #262626;
+}
+.autozpro-social ul li a[href*=docker]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=dochub]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=yelp]:before {
+  content: "";
+  color: #af0606;
+}
+.autozpro-social ul li a[href*=flickr]:before {
+  content: "";
+  color: #0063dc;
+}
+.autozpro-social ul li a[href*=github]:before {
+  content: "";
+  color: #333333;
+}
+.autozpro-social ul li a[href*=dribbble]:before {
+  content: "";
+  color: #ea4c89;
+}
+.autozpro-social ul li a[href*=wordpress]:before {
+  content: "";
+  color: #21759b;
+}
+.autozpro-social ul li a[href*=tumblr]:before {
+  content: "";
+  color: #35465c;
+}
+.autozpro-social ul li a[href*=angular]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=atlassian]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=snapchat]:before {
+  content: "";
+  color: #fffc00;
+}
+.autozpro-social ul li a[href*=apper]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=codepen]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=gulp]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=cpanel]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=skype]:before {
+  content: "";
+  color: #00AFF0;
+}
+.autozpro-social ul li a[href*=reddit]:before {
+  content: "";
+  color: #ff4500;
+}
+.autozpro-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=slack]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=amazon]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=android]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=grunt]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=firefox]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=adobe]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=behance]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=dropbox]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=facebook]:before {
+  content: "";
+  color: #3b5998;
+}
+.autozpro-social ul li a[href*=linkedin]:before {
+  content: "";
+  color: #0077b5;
+}
+.autozpro-social ul li a[href*=paypal]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=trello]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.autozpro-social ul li a[href*=youtube]:before {
+  content: "";
+  color: #cd201f;
+}
+.autozpro-social ul li a[href*=apple]:before {
+  content: "";
+  color: #999999;
+}
+.autozpro-social ul li a[href*=bitbucket]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=bitcoin]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=bluetooth]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=bity]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*="google/chrome"]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=drupal]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=html5]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=mailchimp]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=jenkins]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=spotify]:before {
+  content: "";
+  color: #2ebd59;
+}
+.autozpro-social ul li a[href*=ebay]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=telegram]:before {
+  content: "";
+  color: #2CA5E0;
+}
+.autozpro-social ul li a[href*=yoast]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=btc-e]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=discord]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=google]:before {
+  content: "";
+  color: #dd4b39;
+}
+.autozpro-social ul li a[href*=google-plus]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=figma]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=joomla]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=opencart]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=pinterest]:before {
+  content: "";
+  color: #bd081c;
+}
+.autozpro-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.autozpro-social ul li a[href*=centos]:before {
+  content: "";
+}
+.autozpro-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+
+.entry-header .posted-on:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+  margin-right: 5px;
+}
+.entry-header .post-author:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+  margin-right: 5px;
+}
+.entry-header .meta-reply:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+#comments .commentlist .bypostauthor > .comment-body cite::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+#comments .reply a::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-top: -3px;
+  font-size: 11px;
+}
+#comments .reply a.comment-edit-link::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+#respond #cancel-comment-reply-link::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+}
+
+.sticky .entry-title::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+button.loading,
+input[type=button].loading,
+input[type=reset].loading,
+input[type=submit].loading,
+.button.loading,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading,
+.added_to_cart.loading {
+  position: relative;
+}
+button.loading::after,
+input[type=button].loading::after,
+input[type=reset].loading::after,
+input[type=submit].loading::after,
+.button.loading::after,
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link.loading::after,
+.added_to_cart.loading::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+}
+
+.shop-action .blockUI.blockOverlay:before,
+.shop-action .loader:before {
+  top: 50%;
+  left: 50%;
+  opacity: 1 !important;
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  font-size: 20px;
+  width: 20px;
+  height: 20px;
+  line-height: 1;
+  position: absolute;
+  display: block !important;
+  margin-left: -10px;
+  margin-top: -10px;
+  color: #000;
+}
+
+.shop-action .blockUI.blockOverlay {
+  opacity: 1 !important;
+  overflow: hidden;
+  background-image: none !important;
+  background: #fff !important;
+}
+
+.main-navigtion ul li a::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.mobile-navigation ul li button::after, .mobile-navigation-categories ul li button::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.mobile-navigation ul li button.toggled-on::after, .mobile-navigation-categories ul li button.toggled-on::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_search form::before,
+.widget_product_search form::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+}
+.widget_search.widget_block form::before,
+.widget_product_search.widget_block form::before {
+  content: none;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper {
+  position: relative;
+}
+.widget_search.widget_block form .wp-block-search__inside-wrapper:before,
+.widget_product_search.widget_block form .wp-block-search__inside-wrapper:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translate(0, -50%);
+  z-index: 1;
+}
+
+.single-product .pswp__button {
+  background-color: transparent;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  text-indent: -999px;
+  overflow: hidden;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+  line-height: 20px;
+  text-indent: 0;
+  font-size: 18px;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger img {
+  display: none !important;
+}
+.single-product div.product .entry-cart .yith-wcwl-add-to-wishlist > div > a:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-cart .compare:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-cart .single_add_to_cart_button:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  font-size: 17px;
+  margin-top: -3px;
+}
+
+.stock::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  margin-top: -4px;
+}
+.stock.in-stock::before {
+  content: "";
+}
+
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618em;
+}
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618em;
+  width: 1em;
+}
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.content-area .autozpro-dropdown-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618em;
+}
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407911001em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618em;
+  width: 1em;
+}
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.autozpro-canvas-filter .autozpro-canvas-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+a.remove {
+  display: block;
+  width: 1.618em;
+  height: 1.618em;
+  line-height: 1.618;
+  font-weight: 400;
+  text-indent: -9999px;
+  position: relative;
+}
+a.remove::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #999999;
+  line-height: 1.618;
+  text-indent: 0;
+  text-align: center;
+}
+
+.woocommerce-shipping-calculator > p:first-child a::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.3342343017em;
+}
+
+.blockUI::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+
+.woocommerce-pagination .next,
+.woocommerce-pagination .prev {
+  display: inline-block;
+  position: relative;
+}
+
+#shipping_method li > label {
+  cursor: pointer;
+  padding-right: 20px;
+  position: relative;
+}
+#shipping_method li > label::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#shipping_method li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#shipping_method li > input[type=radio]:first-child:checked + label::after {
+  font-weight: 700;
+  content: "";
+}
+#shipping_method li > input[type=hidden]:first-child + label {
+  padding-right: 0;
+}
+#shipping_method li > input[type=hidden]:first-child + label::after {
+  content: none;
+}
+
+#payment .payment_methods li > label {
+  cursor: pointer;
+}
+#payment .payment_methods li > label::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+  transition: color, ease, 0.2s;
+}
+#payment .payment_methods li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}
+#payment .payment_methods li > input[type=radio]:first-child:checked + label::before {
+  font-weight: 700;
+  content: "";
+}
+
+.woocommerce-password-strength::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-password-strength.strong::after {
+  content: "";
+}
+.woocommerce-password-strength.good::after {
+  content: "";
+}
+
+.woocommerce-MyAccount-navigation ul li.is-active a::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li a::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 1.618;
+  margin-left: 0.5407911001em;
+  width: 1.41575em;
+  text-align: right;
+  float: right;
+  opacity: 0.25;
+  font-weight: 700;
+}
+.woocommerce-MyAccount-navigation ul li a:hover::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--dashboard a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--orders a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--downloads a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-address a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--payment-methods a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-account a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--customer-logout a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--subscriptions a::before {
+  content: "";
+}
+
+.my_account_orders .button.view::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+p.order-again .button::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.woocommerce-MyAccount-downloads .button::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+
+.demo_store::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+#reviews .commentlist li p.meta .verified {
+  display: inline-block;
+  height: 1.41575em;
+  width: 1.41575em;
+  position: relative;
+  text-indent: -9999px;
+}
+#reviews .commentlist li p.meta .verified::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  color: #0f834d;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.41575em;
+  height: 1.41575em;
+  text-indent: 0;
+  text-align: center;
+  line-height: 1.618em;
+}
+
+/**
+ * Composite Products
+ */
+.single-product div.product .component_selections .clear_component_options::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Mix and Match
+ */
+.cart .mnm_table_item .mnm_table_item_indent::before,
+.shop_table .mnm_table_item .mnm_table_item_indent::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  transform: rotate(90deg);
+  margin-right: 0.3819820591em;
+  opacity: 0.25;
+}
+
+/**
+ * Quick view
+ */
+.quick-view-button::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.6180469716em;
+}
+
+/**
+ * Ship multiple addresses
+ */
+.woocommerce-page .ship_address .gift-form label::after,
+.woocommerce-page .no_shipping_address .gift-form label::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407911001em;
+}
+.woocommerce-page .ship_address .modify-address-button::before,
+.woocommerce-page .no_shipping_address .modify-address-button::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+.woocommerce-page .addresses + .addresses header.title a::before {
+  content: "";
+}
+
+/**
+ * Product reviews pro
+ */
+.woocommerce .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before,
+.woocommerce-page .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+/**
+ * Variation Swatches
+ */
+a#variations_clear::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+/**
+ * Wishlists
+ */
+.wl-add-link::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+.button.wl-create-new::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407911001em;
+}
+
+@media (min-width: 768px) {
+  .main-navigation ul.menu > li.menu-item-has-children > a:after, .main-navigation ul.menu > li.page_item_has_children > a:after, .main-navigation ul.menu > li.has-mega-menu > a:after,
+.main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 6px;
+    font-size: 14px;
+    color: var(--light);
+  }
+  .gecko .main-navigation ul.menu > li.menu-item-has-children > a:after, .gecko .main-navigation ul.menu > li.page_item_has_children > a:after, .gecko .main-navigation ul.menu > li.has-mega-menu > a:after,
+.gecko .main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.gecko .main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.gecko .main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    margin-bottom: 0;
+    vertical-align: sub;
+  }
+
+  .header-side .main-navigation ul.menu > li.menu-item-has-children > a::after, .header-side .main-navigation ul.menu > li.page_item_has_children > a::after, .header-side .main-navigation ul.menu > li.has-mega-menu > a::after,
+.header-side .main-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.header-side .main-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.header-side .main-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 1em;
+    margin-right: -25px;
+  }
+
+  .vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after,
+.vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.vertical-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: auto;
+    float: right;
+    font-size: 10px;
+    color: var(--light);
+  }
+
+  .main-navigation ul.menu ul li.menu-item-has-children > a::after, .main-navigation ul.menu ul li.page_item_has_children > a::after,
+.main-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.main-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    float: right;
+    margin-left: 5px;
+    line-height: 2;
+    font-size: 10px;
+    color: var(--light);
+  }
+
+  .demo_store a.woocommerce-store-notice__dismiss-link::before {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-right: 0.3342343017em;
+  }
+
+  .addresses header.title a {
+    display: block;
+    width: 1em;
+    height: 1em;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0.875em;
+    margin-top: 0.6180469716em;
+  }
+  .addresses header.title a::before {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    line-height: 1.618;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-indent: 0;
+  }
+
+  /**
+   * Wishlists
+   */
+  #wl-wrapper .wl-tabs > li.active::after {
+    font-family: "autozpro-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    height: 1em;
+    width: 1em;
+    margin-top: -0.5em;
+  }
+}
+ul.wishlist_table.mobile .remove_from_wishlist:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.slick-prev:before {
+  content: "";
+}
+[dir=rtl] .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-prev:before {
+  content: "";
+}
+
+.slick-next:before {
+  content: "";
+}
+[dir=rtl] .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-next:before {
+  content: "";
+}
+
+.arrow-style-3 .slick-prev:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-prev:before {
+  content: "";
+}
+.arrow-style-3 .slick-next:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-next:before {
+  content: "";
+}
+
+body.loading {
+  position: relative;
+}
+body.loading::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  font-size: 40px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  display: block;
+  z-index: 999999;
+  color: #fff;
+}
+body.loading:before {
+  content: "";
+  display: block;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999998;
+}
+
+.woocommerce-cart .cart-empty:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--light);
+  display: block;
+  margin-bottom: 50px;
+}
+
+h2.resp-accordion:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 10px;
+}
+h2.resp-accordion.active:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_product_categories .icon-minus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-minus:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 12px;
+  color: #cccccc;
+}
+.widget_product_categories .icon-plus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-plus:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 12px;
+  font-weight: 500;
+  color: #cccccc;
+}
+
+.widget_product_brands ul li a:before,
+.widget_layered_nav ul li a:before,
+.widget_layered_nav_filters ul li a:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  margin-top: -2px;
+  color: #E6E6E6;
+}
+.widget_product_brands ul li.current-cat a:before,
+.widget_layered_nav ul li.current-cat a:before,
+.widget_layered_nav_filters ul li.current-cat a:before {
+  content: "";
+}
+
+.widget_product_categories ul.product-categories > li > a:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 8px;
+  margin-top: -2px;
+  font-size: 6px;
+  color: #CCCCCC;
+}
+
+.product-block a[class*=product_type_]:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.product-list a[class*=product_type_]:before {
+  content: "";
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.shop-action a[class*=product_type_]:before {
+  content: "";
+  font-size: 20px;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.product-block-list .woosc-btn:before,
+.product-block-list .woosq-btn:before,
+.product-block-list .woosw-btn:before,
+.product-block-list a[class*=product_type_]:before, .product-block .woosc-btn:before,
+.product-block .woosq-btn:before,
+.product-block .woosw-btn:before,
+.product-block a[class*=product_type_]:before, .product-list .woosc-btn:before,
+.product-list .woosq-btn:before,
+.product-list .woosw-btn:before,
+.product-list a[class*=product_type_]:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+.product-block-list .woosw-btn:before, .product-block .woosw-btn:before, .product-list .woosw-btn:before {
+  content: "";
+}
+.product-block-list .woosw-btn.woosw-added:before, .product-block .woosw-btn.woosw-added:before, .product-list .woosw-btn.woosw-added:before {
+  content: "";
+  color: red;
+  margin-right: 0;
+}
+.product-block-list .woosw-btn.woosw-adding::after, .product-block .woosw-btn.woosw-adding::after, .product-list .woosw-btn.woosw-adding::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  line-height: inherit;
+  content: "" !important;
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+  transform: translate(0);
+}
+.product-block-list .woosw-btn.woosw-adding:before, .product-block .woosw-btn.woosw-adding:before, .product-list .woosw-btn.woosw-adding:before {
+  opacity: 0;
+}
+.product-block-list .woosc-btn:before, .product-block .woosc-btn:before, .product-list .woosc-btn:before {
+  content: "";
+}
+.product-block-list .woosq-btn:before, .product-block .woosq-btn:before, .product-list .woosq-btn:before {
+  content: "";
+}
+
+.single-product div.product .entry-cart .woosc-btn:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+  font-size: 14px;
+  color: var(--accent);
+}
+.single-product div.product .entry-cart .woosw-btn:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+  font-size: 14px;
+  color: var(--accent);
+}
+.single-product div.product .entry-cart .woosw-btn.woosw-added:before {
+  content: "";
+}
+
+a.read-more:after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+}
+
+.ajax-search .widget_product_search .woocommerce-product-search.loading::before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: mf-spin-fast 1s linear infinite;
+  margin-top: -9px;
+}
+
+.elementor-widget-autozpro-language-switcher.language-switcher-style-mobile .autozpro-language-switcher .language-switcher-head:after {
+  position: relative;
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  line-height: 12px;
+}
+
+.loading-quick-shop .product-transition::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.search-by-category .input-dropdown-inner > a:after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.popup-navigation ul.menu > li.menu-item-has-children > a:after, .popup-navigation ul.menu > li.page_item_has_children > a:after, .popup-navigation ul.menu > li.has-mega-menu > a:after,
+.popup-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.popup-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.popup-navigation ul.nav-menu > li.has-mega-menu > a:after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  font-size: 16px;
+}
+
+.popup-navigation ul.menu ul li.menu-item-has-children > a::after, .popup-navigation ul.menu ul li.page_item_has_children > a::after,
+.popup-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.popup-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  float: right;
+  margin-left: 0.5em;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.autozpro-elementor-single-product .shop-button a[class*=product_type_]:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+  margin-top: 3px;
+  float: right;
+  transition: all 0.3s ease;
+}
+
+.elementor-widget-autozpro-image-gallery .column-item a:after {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.woosw-list .woosw-content-mid-notice:before {
+  font-family: "autozpro-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--light);
+  display: block;
+  margin-bottom: 50px;
+}
+
+@keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-webkit-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-o-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-ms-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+
+/*# sourceMappingURL=icons.css.map */

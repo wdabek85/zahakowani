@@ -1,0 +1,1698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Basic Requirements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-20 17:01+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: iLabs\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/config/payment/PaymentMethodsOptions.php:61
+msgid "Payment methods"
+msgstr "Metody płatności"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/omnibus/Hooks.php:153
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/omnibus/Plugin.php:127
+#: src/Lib/omnibus/Hooks.php:156 src/Lib/omnibus/Plugin.php:130
+msgid "Omnibus Price"
+msgstr "Cena Omnibus"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/omnibus/Hooks.php:167
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/omnibus/Plugin.php:139
+msgid "Omnibus Date"
+msgstr "Data Omnibus"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/Lib/omnibus/Price_Note_Template_Service.php:10
+#: src/Lib/omnibus/Price_Note_Template_Service.php:10
+msgid "Lowest price 30 days before the discount:"
+msgstr "Najniższa cena z 30 dni przed obniżką:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:258
+#: src/SettingsPage.php:258
+msgid "Wrong credentials"
+msgstr "Nieprawidłowe dane uwierzytelniające\"#: src/SettingsPage.php:23"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:270
+#: src/SettingsPage.php:270
+msgid "SEE delay time response must be greater than 0.1"
+msgstr "Czas opóźnienia SEE musi być większy niż 0,1"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:278
+#: src/SettingsPage.php:278
+msgid "SEE delay time response must be less than 3"
+msgstr "Czas opóźnienia SEE musi być mniejszy niż 3"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:311
+#: src/SettingsPage.php:311
+msgid "Optional"
+msgstr "Opcjonalne"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:312
+#: src/SettingsPage.php:312
+msgid "Required once"
+msgstr "Wymagane raz"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:313
+#: src/SettingsPage.php:313
+msgid "Required always"
+msgstr "Wymagane zawsze"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:317
+#: src/SettingsPage.php:317
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:318
+#: src/SettingsPage.php:318
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:319
+#: src/SettingsPage.php:319
+msgid "Wednesday"
+msgstr "Środa"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:320
+#: src/SettingsPage.php:320
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:321
+#: src/SettingsPage.php:321
+msgid "Friday"
+msgstr "Piątek"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:322
+#: src/SettingsPage.php:322
+msgid "Saturday"
+msgstr "Sobota"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:323
+#: src/SettingsPage.php:323
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:329
+#: src/SettingsPage.php:329
+msgid "To the left"
+msgstr "Do lewej"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:330
+#: src/SettingsPage.php:330
+msgid "To the center"
+msgstr "Do środka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:331
+#: src/SettingsPage.php:331
+msgid "To the right"
+msgstr "Do prawej"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:335
+#: src/SettingsPage.php:335
+msgid "Bright"
+msgstr "Jasny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:336
+#: src/SettingsPage.php:336
+msgid "Dark"
+msgstr "Ciemny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:340
+#: src/SettingsPage.php:340
+msgid "Yellow"
+msgstr "Żółty"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:341
+#: src/SettingsPage.php:341
+msgid "Black"
+msgstr "Czarny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:345
+#: src/SettingsPage.php:345
+msgid "No round"
+msgstr "Bez zaokrąglenia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:346
+#: src/SettingsPage.php:346
+msgid "Big round"
+msgstr "Duże zaokrąglenie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:347
+#: src/SettingsPage.php:347
+msgid "Small round"
+msgstr "Małe zaokrąglenie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:372
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:37
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:148
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:36
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:117
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:36
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:101
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:36
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:117
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:36
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:133
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:37
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:130
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:225
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:229
+#: src/SettingsPage.php:372 src/views/config-sections/agreements.view.php:170
+#: src/views/config-sections/agreements.view.php:233
+#: src/views/config-sections/agreements.view.php:342
+#: src/views/config-sections/cart-gui.view.php:148
+#: src/views/config-sections/checkout-gui.view.php:36
+#: src/views/config-sections/checkout-gui.view.php:117
+#: src/views/config-sections/login-page-gui.view.php:36
+#: src/views/config-sections/login-page-gui.view.php:101
+#: src/views/config-sections/minicart-gui.view.php:36
+#: src/views/config-sections/minicart-gui.view.php:117
+#: src/views/config-sections/order-gui.view.php:36
+#: src/views/config-sections/order-gui.view.php:133
+#: src/views/config-sections/product-card-gui.view.php:37
+#: src/views/config-sections/product-card-gui.view.php:130
+#: src/views/config-sections/tm-apm.view.php:228
+#: src/views/config-sections/tm-courier.view.php:234
+msgid "Select"
+msgstr "Wybierz"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:388
+#: src/SettingsPage.php:388
+msgid "Full description"
+msgstr "Pełny opis"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/SettingsPage.php:390
+#: src/SettingsPage.php:390
+msgid "Short description"
+msgstr "Krótki opis"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/rest/basket/Update.php:204
+#: src/rest/basket/Update.php:208
+msgid "Coupon added using InPost Pay"
+msgstr "Kupon dodany przy pomocy InPost Pay"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/rest/order/Create.php:255
+#: src/rest/order/Create.php:307
+msgid "Tax id"
+msgstr "NIP"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:28
+#: src/views/admin.php:28
+msgid "Settings Saved"
+msgstr "Ustawienia zostały zapisane"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:39
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:55
+#: src/views/admin.php:39 src/views/admin.php:51
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:40
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:68
+#: src/views/admin.php:40 src/views/admin.php:64
+msgid "Agreements"
+msgstr "Zgody"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:41
+#: src/views/admin.php:41
+msgid "Price of transport"
+msgstr "Koszt transportu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:42
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:4
+#: src/views/admin.php:42
+#: src/views/config-sections/button-appearance.view.php:4
+msgid "Button appearance"
+msgstr "Wygląd przycisków"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:47
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/omnibus.view.php:2
+msgid "Omnibus"
+msgstr "Omnibus"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:51
+#: src/views/admin.php:47
+msgid "Support"
+msgstr "Wsparcie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:76
+#: src/views/admin.php:72
+msgid "Net transport price"
+msgstr "Cena transportu netto"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:106
+#: src/views/admin.php:113
+msgid "The configuration of the InPost Pay plugin"
+msgstr "Konfiguracja wtyczki InPost Pay"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:109
+#: src/views/admin.php:116
+msgid "Ensure proper exposure of the InPost Pay service, allowing for:"
+msgstr "Zadbaj o poprawną ekspozycję usługi InPost Pay, dzięki czemu:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:111
+#: src/views/admin.php:118
+msgid ""
+"Buyers quickly recognize that by making a purchase in your store, they can "
+"take advantage of a fast and secure purchasing and delivery service through "
+"a company they know and trust, directly contributing to their purchasing "
+"decisions."
+msgstr ""
+"Kupujący szybko rozpoznają, że dokonując zakupu w Twoim sklepie mogą "
+"skorzystać z usługi szybkiego i bezpiecznego zakupu oraz dostawy przez "
+"firmę, której usługi znają i do której mają zaufanie, co bezpośrednio "
+"przyczynia się do decyzji zakupowych Klientów."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:112
+#: src/views/admin.php:119
+msgid ""
+"With the widget placed correctly, you help your customers notice the InPost "
+"Pay service, allowing them to complete purchases on your website without the "
+"need to provide their data, which is especially important for customers who "
+"prefer anonymous shopping without logging in."
+msgstr ""
+"Przy prawidłowym umiejscowieniu widgetu pomagasz swoim Klientom zauważyć "
+"usługę InPost Pay, dzięki której będą mogli sfinalizować zakupy na Twojej "
+"stronie bez konieczności podawania swoich danych, co jest szczególnie "
+"istotne w przypadku Klientów, którzy preferują anonimowe zakupy bez "
+"logowania."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:114
+#: src/views/admin.php:121
+msgid ""
+"Please familiarize yourself with the dedicated Merchant Guide regarding the "
+"proper implementation of the InPost Pay service. It gathers information on "
+"the current branding of InPost Pay, guidelines for the visual implementation "
+"of the widget, and best practices worth applying to build a positive user "
+"experience among online buyers. You will find the Merchant Guide in the "
+"\"useful links\" section."
+msgstr ""
+"Zapoznaj się z dedykowanym Przewodnikiem Merchanta, dotyczącym poprawnej "
+"implementacji usługi InPost Pay. Gromadzi on w jednym miejscu informacje w "
+"zakresie aktualnego brandingu InPost Pay, wytyczne odnośnie implementacji "
+"wizualnej widgetu oraz dobre praktyki, warte stosowania przy budowaniu "
+"pozytywnego user experience wśród Kupujących online. Przewodnik Merchanta "
+"znajdziesz w sekcji \"przydatne linki\"."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:133
+#: src/views/admin.php:140
+msgid "Plugin status"
+msgstr "Status wtyczki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:139
+#: src/views/admin.php:146
+msgid "To collect data from the log, enable debugging appropriately beforehand"
+msgstr "Aby zbierać dane z logu, włącz debugowanie odpowiednio wcześniej"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:151
+#: src/views/admin.php:158
+msgid "Copy plugin data and logs"
+msgstr "Skopiuj dane i logi wtyczki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:166
+#: src/views/admin.php:173
+msgid "Enable debbuging"
+msgstr "Włącz debugowanie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:182
+#: src/views/admin.php:189
+msgid "News"
+msgstr "Aktualności"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:191
+#: src/views/admin.php:198
+msgid "Current version of the plugin"
+msgstr "Aktualna wersja wtyczki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:197
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:201
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:205
+#: src/views/admin.php:204 src/views/admin.php:208 src/views/admin.php:212
+msgid "Version"
+msgstr "Wersja"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:221
+#: src/views/admin.php:228
+msgid "Useful links"
+msgstr "Przydatne linki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:230
+#: src/views/admin.php:237
+msgid ""
+"Merchant Guide - How to properly display InPost Pay in your online store"
+msgstr ""
+"Przewodnik Merchanta - jak poprawnie wyświetlić InPost Pay w Twoim sklepie "
+"internetowym"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:234
+#: src/views/admin.php:241
+msgid "Instructions for Configuring the InPost Pay Plugin"
+msgstr "Instrukcja konfiguracji wtyczki InPost Pay"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:238
+#: src/views/admin.php:245
+msgid "Returns handling instructions"
+msgstr "Instrukcja obsługi zwrotów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:242
+#: src/views/admin.php:249
+msgid "Merchant panel - transaction preview and returns handling"
+msgstr "Instrukcja obsługi zwrotów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:257
+#: src/views/admin.php:264
+msgid "Contact and Support"
+msgstr "Kontakt i wsparcie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:266
+#: src/views/admin.php:273
+msgid "Technical support - please use the contact form"
+msgstr "Pomoc techniczna - skorzystaj z formularza kontaktowego"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:270
+#: src/views/admin.php:277
+msgid "Contact a sales representative"
+msgstr "Skontaktuj się z przedstawicielem handlowym"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/admin.php:274
+#: src/views/admin.php:281
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/additional-options.view.php:5
+#: src/views/config-sections/additional-options.view.php:5
+msgid "SEE delay time response:"
+msgstr "Czas opóźnienia SSE:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/additional-options.view.php:21
+#: src/views/config-sections/additional-options.view.php:21
+msgid ""
+"The pause time in seconds between server responses. Can be between 0.1 to 3 "
+"seconds"
+msgstr ""
+"Czas pauzy w sekundach między odpowiedziami serwera. Może wynosić od 0,1 do "
+"3 sekund"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:25
+#: src/views/config-sections/agreements.view.php:160
+#: src/views/config-sections/agreements.view.php:226
+#: src/views/config-sections/agreements.view.php:336
+msgid "Agreement address"
+msgstr "Adres zgody"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:48
+#: src/views/config-sections/agreements.view.php:76
+#: src/views/config-sections/agreements.view.php:354
+msgid ""
+"Specify the page to which your customer will be redirected when clicking on "
+"a specific agreement in the InPost mobile application"
+msgstr ""
+"Określa stronę, na którą zostanie przekierowany Twój klient w celu, który "
+"kliknie na daną zgodę w aplikacji InPost mobile"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:58
+#: src/views/config-sections/agreements.view.php:42
+#: src/views/config-sections/agreements.view.php:260
+msgid "Descriptions visible in application"
+msgstr "Opisy widoczne w aplikacji"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:72
+#: src/views/config-sections/agreements.view.php:55
+#: src/views/config-sections/agreements.view.php:271
+msgid ""
+"Add a description to be displayed with the agreement in the InPost mobile "
+"application"
+msgstr ""
+"Dodaj opis, który ma być wyświetlany przy zgodzie w aplikacji InPost mobile"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:82
+#: src/views/config-sections/agreements.view.php:66
+#: src/views/config-sections/agreements.view.php:284
+msgid "Is it required"
+msgstr "Czy wymagane"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/agreements.view.php:110
+#: src/views/config-sections/agreements.view.php:295
+msgid "Specify whether the agreement is required or optional"
+msgstr "Określ czy zgoda jest wymagana czy opcjonalna"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:7
+#: src/views/config-sections/button-appearance.view.php:7
+msgid "Display"
+msgstr "Wyświetlanie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:12
+#: src/views/config-sections/button-appearance.view.php:12
+msgid "Background"
+msgstr "Tło"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:39
+#: src/views/config-sections/button-appearance.view.php:39
+msgid "Determines the background theme"
+msgstr "Określa motyw tła"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:48
+#: src/views/config-sections/button-appearance.view.php:48
+msgid "Variant"
+msgstr "Wariant"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:75
+#: src/views/config-sections/button-appearance.view.php:75
+msgid "Determines the variant of button"
+msgstr "Określa wariant przycisku"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:85
+#: src/views/config-sections/button-appearance.view.php:85
+msgid "Round style"
+msgstr "Zaokrąglenie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/button-appearance.view.php:112
+#: src/views/config-sections/button-appearance.view.php:112
+msgid "Determines the button frame style"
+msgstr "Określa wygląd przycisku"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:2
+#: src/views/config-sections/cart-gui.view.php:2
+msgid "Cart"
+msgstr "Koszyk"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:7
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:36
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:7
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:7
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:7
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:7
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:7
+#: src/views/config-sections/cart-gui.view.php:7
+#: src/views/config-sections/cart-gui.view.php:36
+#: src/views/config-sections/checkout-gui.view.php:7
+#: src/views/config-sections/login-page-gui.view.php:7
+#: src/views/config-sections/minicart-gui.view.php:7
+#: src/views/config-sections/order-gui.view.php:7
+#: src/views/config-sections/product-card-gui.view.php:7
+msgid "Show"
+msgstr "Wyświetlaj"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:22
+#: src/views/config-sections/cart-gui.view.php:22
+#: src/views/config-sections/checkout-gui.view.php:22
+#: src/views/config-sections/login-page-gui.view.php:22
+#: src/views/config-sections/minicart-gui.view.php:22
+#: src/views/config-sections/order-gui.view.php:22
+#: src/views/config-sections/product-card-gui.view.php:22
+msgid ""
+"To increase conversion, we recommend displaying InPost Pay on both the cart "
+"and product pages"
+msgstr ""
+"W celu zwiększenia konwersji rekomendujemy wyświetlanie InPost Pay zarówno "
+"na karcie koszyka, jak i karcie produktu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:31
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:31
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:31
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:31
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:31
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:32
+#: src/views/config-sections/cart-gui.view.php:31
+#: src/views/config-sections/checkout-gui.view.php:31
+#: src/views/config-sections/login-page-gui.view.php:31
+#: src/views/config-sections/minicart-gui.view.php:31
+#: src/views/config-sections/order-gui.view.php:31
+#: src/views/config-sections/product-card-gui.view.php:32
+msgid "Placement"
+msgstr "Umiejscowienie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:41
+#: src/views/config-sections/cart-gui.view.php:41
+msgid "Before cart"
+msgstr "Przed koszykiem"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:45
+#: src/views/config-sections/cart-gui.view.php:45
+msgid "Before cart table"
+msgstr "Przed tabelą"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:49
+#: src/views/config-sections/cart-gui.view.php:49
+msgid "Before cart content"
+msgstr "Przed zawartością koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:53
+#: src/views/config-sections/cart-gui.view.php:53
+msgid "Cart contents"
+msgstr "Zawartość koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:57
+#: src/views/config-sections/cart-gui.view.php:57
+msgid "Cart coupon"
+msgstr "Przy kuponach"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:61
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:61
+#: src/views/config-sections/cart-gui.view.php:61
+#: src/views/config-sections/order-gui.view.php:61
+msgid "After cart contents"
+msgstr "Po zawartości koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:65
+#: src/views/config-sections/cart-gui.view.php:65
+msgid "After cart table slot 1"
+msgstr "Po tabeli slot 1"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:69
+#: src/views/config-sections/cart-gui.view.php:69
+msgid "After cart table slot 2"
+msgstr "Po tabeli slot 2"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:73
+#: src/views/config-sections/cart-gui.view.php:73
+msgid "Before cart totals"
+msgstr "Przed sumą"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:77
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:65
+#: src/views/config-sections/cart-gui.view.php:77
+#: src/views/config-sections/order-gui.view.php:65
+msgid "Before shipping"
+msgstr "Przed wysyłką"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:81
+#: src/views/config-sections/cart-gui.view.php:81
+msgid "Before shipping calculator"
+msgstr "Przed kalkulatorem wysyłki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:85
+#: src/views/config-sections/cart-gui.view.php:85
+msgid "After shipping calculator"
+msgstr "Po kalkulatorze wysyłki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:89
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:69
+#: src/views/config-sections/cart-gui.view.php:89
+#: src/views/config-sections/order-gui.view.php:69
+msgid "After shipping"
+msgstr "Po wysyłce"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:93
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:73
+#: src/views/config-sections/cart-gui.view.php:93
+#: src/views/config-sections/order-gui.view.php:73
+msgid "Before order total"
+msgstr "Przed sumą zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:97
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:77
+#: src/views/config-sections/cart-gui.view.php:97
+#: src/views/config-sections/order-gui.view.php:77
+msgid "After order total"
+msgstr "Po sumie zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:101
+#: src/views/config-sections/cart-gui.view.php:101
+msgid "Proceed to checkout"
+msgstr "Przy przejściu do zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:105
+#: src/views/config-sections/cart-gui.view.php:105
+msgid "After cart totals"
+msgstr "Po podsumowaniu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:109
+#: src/views/config-sections/cart-gui.view.php:109
+msgid "After cart area"
+msgstr "Po obszarze koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:134
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:103
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:87
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:103
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:119
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:116
+#: src/views/config-sections/cart-gui.view.php:134
+#: src/views/config-sections/checkout-gui.view.php:103
+#: src/views/config-sections/login-page-gui.view.php:87
+#: src/views/config-sections/minicart-gui.view.php:103
+#: src/views/config-sections/order-gui.view.php:119
+#: src/views/config-sections/product-card-gui.view.php:116
+msgid ""
+"For WooCommerce cart subpages, you can add widgets in various parts of the "
+"page. Choose a location that fits your template, following the instructions "
+"available in the Merchant Guide"
+msgstr ""
+"Dla podstron koszyka Woocommerce umożliwia dodawanie widgetów w różnych "
+"częściach podstrony. Wybierz umiejscowienie pasujące do Twojego szablonu "
+"kierując się wskazówkami dostępnymi w Przewodniku Merchanta"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:143
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:112
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:96
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:112
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:128
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:125
+#: src/views/config-sections/cart-gui.view.php:143
+#: src/views/config-sections/checkout-gui.view.php:112
+#: src/views/config-sections/login-page-gui.view.php:96
+#: src/views/config-sections/minicart-gui.view.php:112
+#: src/views/config-sections/order-gui.view.php:128
+#: src/views/config-sections/product-card-gui.view.php:125
+msgid "Alignment"
+msgstr "Położenie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:171
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:141
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:126
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:141
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:156
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:155
+#: src/views/config-sections/cart-gui.view.php:171
+#: src/views/config-sections/checkout-gui.view.php:141
+#: src/views/config-sections/login-page-gui.view.php:126
+#: src/views/config-sections/minicart-gui.view.php:141
+#: src/views/config-sections/order-gui.view.php:156
+#: src/views/config-sections/product-card-gui.view.php:155
+msgid ""
+"Specify the orientation of the widget in the available space. If your "
+"template allocates a narrow space for the widget, the setting will not "
+"affect the appearance"
+msgstr ""
+"Określa orientację widgetu w dostępnej dla niego przestrzeni. Jeśli Twój "
+"szablon przeznacza wąską przestrzeń na widget ustawienie nie będzie miało "
+"wpływu na wygląd"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:180
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:150
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:135
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:150
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:165
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:165
+#: src/views/config-sections/cart-gui.view.php:180
+#: src/views/config-sections/checkout-gui.view.php:150
+#: src/views/config-sections/login-page-gui.view.php:135
+#: src/views/config-sections/minicart-gui.view.php:150
+#: src/views/config-sections/order-gui.view.php:165
+#: src/views/config-sections/product-card-gui.view.php:165
+msgid "Button width"
+msgstr "Szerokość przycisku"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:191
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:161
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:146
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:161
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:176
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:176
+#: src/views/config-sections/cart-gui.view.php:191
+#: src/views/config-sections/checkout-gui.view.php:161
+#: src/views/config-sections/login-page-gui.view.php:146
+#: src/views/config-sections/minicart-gui.view.php:161
+#: src/views/config-sections/order-gui.view.php:176
+#: src/views/config-sections/product-card-gui.view.php:176
+msgid ""
+"Specifies the maximum width that the widget should occupy. Note: The widget "
+"adjusts its width to the container it is in. If the parent container has a "
+"width smaller than max_width, then the widget will reach the dimensions of "
+"the parent container. A good idea is to use the additional min-width css "
+"style directly on the inpost-izi-button to get the best matching effects. It "
+"takes values from 220 to 600."
+msgstr ""
+"Określa maksymalną szerokość jaką ma zajmować widget. Uwaga: widget "
+"dostosowuje szerokość do kontenera, w którym się znajduje. Jeśli kontener "
+"nadrzędny będzie miał szerokość mniejszą niż max_width wtedy widget osiągnie "
+"wymiary kontenera nadrzędnego. Dobrym pomysłem jest stosowanie dodatkowego "
+"stylu css min-width bezpośrednio na inpost-izi-button co pozwoli uzyskać "
+"najlepsze efekty dopasowania. Przyjmuje wartości od 220 do 600."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:200
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:170
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:155
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:170
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:185
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:185
+#: src/views/config-sections/cart-gui.view.php:200
+#: src/views/config-sections/checkout-gui.view.php:170
+#: src/views/config-sections/login-page-gui.view.php:155
+#: src/views/config-sections/minicart-gui.view.php:170
+#: src/views/config-sections/order-gui.view.php:185
+#: src/views/config-sections/product-card-gui.view.php:185
+msgid "Button height"
+msgstr "Wysokość przycisku"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:211
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:181
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:166
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:181
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:196
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:196
+#: src/views/config-sections/cart-gui.view.php:211
+#: src/views/config-sections/checkout-gui.view.php:181
+#: src/views/config-sections/login-page-gui.view.php:166
+#: src/views/config-sections/minicart-gui.view.php:181
+#: src/views/config-sections/order-gui.view.php:196
+#: src/views/config-sections/product-card-gui.view.php:196
+msgid ""
+"Specifies the minimum height that the widget should occupy. It should take "
+"values from 48 to 64."
+msgstr ""
+"Określa minimalną wysokość jaką ma zajmować widget. Powinien przyjmować "
+"wartości od 48 do 64."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:222
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:210
+#: src/views/config-sections/cart-gui.view.php:222
+#: src/views/config-sections/product-card-gui.view.php:210
+msgid "Margin top"
+msgstr "Margines górny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:234
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:222
+#: src/views/config-sections/cart-gui.view.php:234
+#: src/views/config-sections/product-card-gui.view.php:222
+msgid "Margin left"
+msgstr "Margines lewy"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:246
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:234
+#: src/views/config-sections/cart-gui.view.php:246
+#: src/views/config-sections/product-card-gui.view.php:234
+msgid "Margin right"
+msgstr "Margines prawy"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:258
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:246
+#: src/views/config-sections/cart-gui.view.php:258
+#: src/views/config-sections/product-card-gui.view.php:246
+msgid "Margin bottom"
+msgstr "Margines dolny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:272
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:263
+#: src/views/config-sections/cart-gui.view.php:272
+#: src/views/config-sections/product-card-gui.view.php:263
+msgid "Padding top"
+msgstr "Padding górny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:284
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:275
+#: src/views/config-sections/cart-gui.view.php:284
+#: src/views/config-sections/product-card-gui.view.php:275
+msgid "Padding left"
+msgstr "Padding lewy"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:296
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:287
+#: src/views/config-sections/cart-gui.view.php:296
+#: src/views/config-sections/product-card-gui.view.php:287
+msgid "Padding right"
+msgstr "Padding prawy"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/cart-gui.view.php:308
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:299
+#: src/views/config-sections/cart-gui.view.php:308
+#: src/views/config-sections/product-card-gui.view.php:299
+msgid "Padding bottom"
+msgstr "Padding dolny"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:2
+#: src/views/config-sections/checkout-gui.view.php:2
+msgid "Checkout"
+msgstr "Strona zamawiania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:41
+#: src/views/config-sections/checkout-gui.view.php:41
+msgid "Before checkout form"
+msgstr "Przed formularzem zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:45
+#: src/views/config-sections/checkout-gui.view.php:45
+msgid "Before customer details"
+msgstr "Przed danymi kupującego"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:49
+#: src/views/config-sections/checkout-gui.view.php:49
+msgid "Before billing form"
+msgstr "Przed formularzem płatności"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:53
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:53
+#: src/views/config-sections/checkout-gui.view.php:53
+#: src/views/config-sections/minicart-gui.view.php:53
+msgid "After billing form"
+msgstr "Po formularzu płatności"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:57
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:57
+#: src/views/config-sections/checkout-gui.view.php:57
+#: src/views/config-sections/minicart-gui.view.php:57
+msgid "Before shipping form"
+msgstr "Przed formularzem wysyłki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:61
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:61
+#: src/views/config-sections/checkout-gui.view.php:61
+#: src/views/config-sections/minicart-gui.view.php:61
+msgid "After shipping form"
+msgstr "Po formularzu wysyłki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:65
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:65
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:49
+#: src/views/config-sections/checkout-gui.view.php:65
+#: src/views/config-sections/minicart-gui.view.php:65
+#: src/views/config-sections/order-gui.view.php:49
+msgid "After customer details"
+msgstr "Po danych kupującego"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:69
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:69
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:53
+#: src/views/config-sections/checkout-gui.view.php:69
+#: src/views/config-sections/minicart-gui.view.php:69
+#: src/views/config-sections/order-gui.view.php:53
+msgid "Before order review"
+msgstr "Przed podsumowaniem zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:73
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:73
+#: src/views/config-sections/checkout-gui.view.php:73
+#: src/views/config-sections/minicart-gui.view.php:73
+msgid "After order review"
+msgstr "Po podsumowaniu zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/checkout-gui.view.php:77
+#: src/views/config-sections/checkout-gui.view.php:77
+msgid "After checkout form"
+msgstr "Po formularzu zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:4
+#: src/views/config-sections/environment.view.php:4
+msgid "Environment"
+msgstr "Środowisko"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:21
+#: src/views/config-sections/environment.view.php:21
+msgid "Develop"
+msgstr "Deweloperskie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:37
+#: src/views/config-sections/environment.view.php:37
+msgid "Production"
+msgstr "Produkcyjne"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:49
+#: src/views/config-sections/environment.view.php:49
+msgid ""
+"Choose the environment on which you want to display the InPost Pay service. "
+"Remember to ensure that the service works correctly in your store before "
+"switching to the production environment"
+msgstr ""
+"Wybierz środowisko, na którym chcesz pokazać usługę InPost Pay. Pamiętaj, "
+"aby przed przejściem na środowisko produkcyjne upewnić się, że usługa w "
+"Twoim sklepie działa prawidłowo"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:59
+#: src/views/config-sections/environment.view.php:59
+msgid "Show widget"
+msgstr "Pokazuj widget"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:76
+#: src/views/config-sections/environment.view.php:76
+msgid "For testers"
+msgstr "Testerom"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:85
+#: src/views/config-sections/environment.view.php:85
+msgid "For all"
+msgstr "Każdemu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:97
+#: src/views/config-sections/environment.view.php:97
+msgid ""
+"If you choose \"testers\", the widget will be visible only to those who "
+"should see it. To display the widget in this mode in a web browser, enter "
+"your store address with the addition of ?showIzi=true. Example: https://"
+"yourstore.com?showIzi=true"
+msgstr ""
+"Jeśli wybierzesz \"testerom\" widget będzie widoczny tylko dla osób, które "
+"mają go zobaczyć. W celu wyświetlenia widgetu w ym trybie w przeglądarce "
+"internetowej wpisz adres Twojego sklepu z dopiskiem ?showIzi=true Przykład: "
+"https://mojsklep.pl?showIzi=true"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:106
+#: src/views/config-sections/environment.view.php:106
+msgid "Client ID"
+msgstr "Client ID"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:119
+#: src/views/config-sections/environment.view.php:119
+msgid ""
+"Remember that the client ID differs depending on the selected environment. "
+"To obtain a sandbox Client ID, contact us through the contact form. To "
+"obtain a production Client ID, log in to InPost and complete the store's data"
+msgstr ""
+"Pamiętaj, że client ID w zależności od wybranego środowiska różni się. Aby "
+"uzyskać sandboxowe Client ID skontaktuj się z nami przez formularz "
+"kontaktowy. Aby uzyskać produkcyjne Client ID zaloguj się do InPost i "
+"uzupełnij dane sklepu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:128
+#: src/views/config-sections/environment.view.php:128
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:143
+#: src/views/config-sections/environment.view.php:143
+msgid ""
+"Remember that the Client Secret differs depending on the selected "
+"environment. To obtain a sandbox Client Secret, contact us through the "
+"contact form. To obtain a production Client Secret, log in to InPost and "
+"complete the store's data"
+msgstr ""
+"Pamiętaj, że Client Secret w zależności od wybranego środowiska różni się. "
+"Aby uzyskać sandboxowe Client Secret skontaktuj się z nami przez formularz "
+"kontaktowy. Aby uzyskać produkcyjne Client Secret zaloguj się do InPost i "
+"uzupełnij dane sklepu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:152
+#: src/views/config-sections/environment.view.php:152
+msgid "POS ID"
+msgstr "POS ID"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/environment.view.php:165
+#: src/views/config-sections/environment.view.php:165
+msgid ""
+"For the sandbox environment, enter a random string of characters. For the "
+"production environment, log in to InPost and retrieve the POS ID"
+msgstr ""
+"W przypadku środowiska sandbox - wpisz losowy ciąg znaków. W przypadku "
+"środowiska produkcyjnego - zaloguj się do InPost i pobierz POS ID"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:2
+#: src/views/config-sections/login-page-gui.view.php:2
+msgid "Login Page"
+msgstr "Strona Logowania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:41
+#: src/views/config-sections/login-page-gui.view.php:41
+msgid "Login Footer"
+msgstr "Logowanie Stopka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:45
+#: src/views/config-sections/login-page-gui.view.php:45
+msgid "Login Header"
+msgstr "Logowanie nagłówek"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:49
+#: src/views/config-sections/login-page-gui.view.php:49
+msgid "Before Login Form"
+msgstr "Przed formularzem logowania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:53
+#: src/views/config-sections/login-page-gui.view.php:53
+msgid "Login Form Start"
+msgstr "Na początku formularzu logowania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:57
+#: src/views/config-sections/login-page-gui.view.php:57
+msgid "Login Form"
+msgstr "W formularzu logowania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/login-page-gui.view.php:61
+#: src/views/config-sections/login-page-gui.view.php:61
+msgid "Login Form End"
+msgstr "Na końcu formularza logowania"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:2
+#: src/views/config-sections/minicart-gui.view.php:2
+msgid "Minicart"
+msgstr "Minicart"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:41
+#: src/views/config-sections/minicart-gui.view.php:41
+msgid "Before minicart"
+msgstr "Przed Minicart"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:45
+#: src/views/config-sections/minicart-gui.view.php:45
+msgid "Before minicart contents"
+msgstr "Przed zawartością koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:49
+#: src/views/config-sections/minicart-gui.view.php:49
+msgid "Minicart contents"
+msgstr "Zawartość koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/minicart-gui.view.php:77
+#: src/views/config-sections/minicart-gui.view.php:77
+msgid "After minicart form"
+msgstr "Za formularzem dodania do koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/net-transport-price.view.php:4
+#: src/views/config-sections/net-transport-price.view.php:5
+msgid "Add VAT to the transport price:"
+msgstr "Dolicz VAT do ceny transportu:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/net-transport-price.view.php:23
+#: src/views/config-sections/net-transport-price.view.php:24
+msgid "Yes"
+msgstr "Tak"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/net-transport-price.view.php:28
+#: src/views/config-sections/net-transport-price.view.php:29
+msgid "No"
+msgstr "Nie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/net-transport-price.view.php:38
+#: src/views/config-sections/net-transport-price.view.php:39
+msgid "Determines whether tax should be added to the shipping price"
+msgstr "Określa czy ma być dodany podatek do ceny transportu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/omnibus.view.php:8
+msgid "Enable Omnibus integration"
+msgstr "Włącz integrację Omnibus"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/omnibus.view.php:24
+msgid "Show omnibus note on product listings"
+msgstr "Pokaż adnotację Omnibus na listingu produktów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/omnibus.view.php:40
+msgid "Show omnibus note on regular (none discount) products"
+msgstr "Pokaż adnotację Omnibus obok produktów niepromocyjnych"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:2
+#: src/views/config-sections/order-gui.view.php:2
+msgid "Order"
+msgstr "Zamówienie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:41
+#: src/views/config-sections/order-gui.view.php:41
+msgid "Before order notes"
+msgstr "Przed notatkami zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:45
+#: src/views/config-sections/order-gui.view.php:45
+msgid "After order notes"
+msgstr "Po notatkach zamówienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:57
+#: src/views/config-sections/order-gui.view.php:57
+msgid "Before cart contents"
+msgstr "Przed zawartością koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:81
+#: src/views/config-sections/order-gui.view.php:81
+msgid "Before payment"
+msgstr "Przed płatnością"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:85
+#: src/views/config-sections/order-gui.view.php:85
+msgid "Before submit"
+msgstr "Przed zatwierdzeniem"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:89
+#: src/views/config-sections/order-gui.view.php:89
+msgid "After submit"
+msgstr "Po zatwierdzeniu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/order-gui.view.php:93
+#: src/views/config-sections/order-gui.view.php:93
+msgid "After payment"
+msgstr "Po płatności"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/payment.view.php:8
+#: src/views/config-sections/payment.view.php:8
+msgid "Enable payments in accordance with the signed agreement with Aion"
+msgstr "Włącz płatności zgodne z podpisaną umową z Aion"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/payment.view.php:20
+#: src/views/config-sections/payment.view.php:20
+msgid ""
+"Payment methods have been specified in the payment gateway service agreement"
+msgstr ""
+"Metody płatności zostały określone na umowie o obsługę bramki płatniczej"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/payment.view.php:37
+#: src/views/config-sections/payment.view.php:37
+msgid ""
+"Enable payment on delivery according to the signed agreement with InPost"
+msgstr "Włącz płatność przy odbiorze zgodnie z podpisaną umową z InPost"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/payment.view.php:50
+#: src/views/config-sections/payment.view.php:50
+msgid ""
+"Cash on delivery payment will be available only if you have a signed "
+"agreement\n"
+"                        with InPost to provide this service in your store"
+msgstr ""
+"Płatność przy odbiorze będzie dostępna tylko wtedy, kiedy posiadasz "
+"podpisaną umowę z InPost na świadczenie tej usługi w Twoim sklepie"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/payment.view.php:81
+#: src/views/config-sections/payment.view.php:81
+msgid "Select available payment methods for your store"
+msgstr "Wybierz dostępne metody płatności dla Twojego sklepu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:2
+#: src/views/config-sections/product-card-gui.view.php:2
+msgid "Product card"
+msgstr "Karta produktu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:43
+#: src/views/config-sections/product-card-gui.view.php:43
+msgid "Before add to cart form"
+msgstr "Przed formularzem dodania do koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:47
+#: src/views/config-sections/product-card-gui.view.php:47
+msgid "Before variations form"
+msgstr "Przed formularzem wariantów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:51
+#: src/views/config-sections/product-card-gui.view.php:51
+msgid "Before add to cart button"
+msgstr "Przed przyciskiem dodania do koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:55
+#: src/views/config-sections/product-card-gui.view.php:55
+msgid "Before single variation"
+msgstr "Przed pojedynczym wariantem"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:59
+#: src/views/config-sections/product-card-gui.view.php:59
+msgid "Before quantity field"
+msgstr "Przed polem ilości produktów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:63
+#: src/views/config-sections/product-card-gui.view.php:63
+msgid "After quantity field"
+msgstr "Za polem ilości produktów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:67
+#: src/views/config-sections/product-card-gui.view.php:67
+msgid "After add to cart button"
+msgstr "Za przyciskiem dodania do koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:71
+#: src/views/config-sections/product-card-gui.view.php:71
+msgid "After variations form"
+msgstr "Za formularzem wariantów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:75
+#: src/views/config-sections/product-card-gui.view.php:75
+msgid "After add to cart form"
+msgstr "Za formularzem dodania do koszyka"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:79
+#: src/views/config-sections/product-card-gui.view.php:79
+msgid "Product meta start"
+msgstr "Początek meta produktu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:83
+#: src/views/config-sections/product-card-gui.view.php:83
+msgid "Product meta end"
+msgstr "Koniec meta produktu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:87
+#: src/views/config-sections/product-card-gui.view.php:87
+msgid "After single product summary"
+msgstr "Po podsumowaniu produktu"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:205
+#: src/views/config-sections/product-card-gui.view.php:205
+msgid "Margins"
+msgstr "Marginesy"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:205
+#: src/views/config-sections/product-card-gui.view.php:205
+msgid ""
+"Specify custom margin values if the widget is too close to standard buttons"
+msgstr ""
+"Określ indywidualne wartości marginesów, jeśli widget znajduje się zbyt "
+"blisko standardowych przycisków"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:258
+#: src/views/config-sections/product-card-gui.view.php:258
+msgid "Paddings"
+msgstr "Wypełnienia"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-card-gui.view.php:258
+#: src/views/config-sections/product-card-gui.view.php:258
+msgid ""
+"Specify individual padding values for the button if the widget is too narrow "
+"or too wide"
+msgstr ""
+"Określ indywidualne wartości wypełnienia przycisku, jeśli widget jest zbyt "
+"wąski lub za szeroki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-desc-source.view.php:5
+#: src/views/config-sections/product-desc-source.view.php:5
+msgid "Map product description based on:"
+msgstr "Bazowy opis produktu do zmapowania:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/product-desc-source.view.php:19
+#: src/views/config-sections/product-desc-source.view.php:19
+msgid "Determines if full or short description will be mapped"
+msgstr "Określa czy mapowany będzie pełny czy krótki opis"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/statuses.view.php:4
+#: src/views/config-sections/statuses.view.php:4
+msgid "Statuses for order paid by InPost Pay"
+msgstr "Statusy dla zamówienia opłaconego przez InPost Pay"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/statuses.view.php:19
+#: src/views/config-sections/statuses.view.php:19
+msgid ""
+"Determines what order status should be set after the payment is completed"
+msgstr ""
+"Określa jaki status mają mieć zamówienia, które zostaną opłacone przez "
+"InPost Pay"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/statuses.view.php:32
+#: src/views/config-sections/statuses.view.php:32
+msgid "Statuses for orders"
+msgstr "Statusy dla zamówień"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/statuses.view.php:43
+#: src/views/config-sections/statuses.view.php:43
+msgid ""
+"Please verify if the order status dictionary matches what is actually "
+"presented to customers. At any time, you can change the names of the "
+"displayed statuses"
+msgstr ""
+"Sprawdź czy słownik statusów zamówień jest zgodny z tym, co rzeczywiście "
+"prezentujesz klientom. W dowolnym momencie możesz zmienić nazwę "
+"wyświetlanych statusów"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/suggested-products.view.php:5
+#: src/views/config-sections/suggested-products.view.php:5
+msgid "Max suggested products amount:"
+msgstr "Maksymalna liczba sugerowanych produktów:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/suggested-products.view.php:21
+#: src/views/config-sections/suggested-products.view.php:21
+msgid ""
+"To display suggested products, you must fill out the Related Products \n"
+"                                            section in the WooCommerce "
+"product configuration. 1. Go to edit the product \n"
+"                                            in your store. 2. In the Product "
+"Data panel, select the \"Related products\" \n"
+"                                            section. 3. Fill in the \"up-sell"
+"\" or \"cross-sell\" sections - products from \n"
+"                                            both sections will be visible in "
+"the application."
+msgstr ""
+"W celu pokazania produktów sugerowanych należy uzupełnić sekcję Produktów "
+"Powiązanych w konfiguracji produktu WooCommerce. 1. Przejdź do edycji "
+"produktu w Twoim sklepie. 2. W panelu Dane Produktu wybierz sekcję "
+"“Powiązane produkty”. 3. Wypełnij sekcje “up-sell” bądź “cross-sell” - "
+"produkty z obu sekcji będą widoczne w aplikacji."
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-additional-options.view.php:3
+#: src/views/config-sections/tm-additional-options.view.php:4
+msgid "Additional options:"
+msgstr "Dodatkowe opcje:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-additional-options.view.php:10
+#: src/views/config-sections/tm-additional-options.view.php:11
+msgid "Check shipping method availability"
+msgstr "Sprawdź dostępność metody wysyłki"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:3
+#: src/views/config-sections/tm-apm.view.php:4
+msgid "Package on Weekend (PWW) Parcel Locker:"
+msgstr "Paczka w Weekend (PWW) Paczkomat:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:10
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:120
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:10
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:122
+#: src/views/config-sections/tm-apm.view.php:11
+#: src/views/config-sections/tm-apm.view.php:123
+#: src/views/config-sections/tm-courier.view.php:11
+#: src/views/config-sections/tm-courier.view.php:125
+msgid "Price"
+msgstr "Cena"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:132
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:22
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:134
+#: src/views/config-sections/tm-apm.view.php:23
+#: src/views/config-sections/tm-apm.view.php:135
+#: src/views/config-sections/tm-courier.view.php:23
+#: src/views/config-sections/tm-courier.view.php:137
+msgid "Available from"
+msgstr "Dostępne od"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:67
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:177
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:69
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:179
+#: src/views/config-sections/tm-apm.view.php:68
+#: src/views/config-sections/tm-apm.view.php:180
+#: src/views/config-sections/tm-courier.view.php:70
+#: src/views/config-sections/tm-courier.view.php:182
+msgid "Available to"
+msgstr "Dostępne do"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:113
+#: src/views/config-sections/tm-apm.view.php:116
+msgid "Cash on Delivery (COD) Parcel Machine"
+msgstr "Pobranie (COD) Paczkomat"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:252
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:258
+#: src/views/config-sections/tm-apm.view.php:255
+#: src/views/config-sections/tm-courier.view.php:263
+msgid "Determines which shipping method is to be associated"
+msgstr "Określa która metoda przesyłki ma być powiązana"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-apm.view.php:260
+#: src/views/config-sections/tm-apm.view.php:263
+msgid "Pricing and shipping availability from Parcel Machine Map with:"
+msgstr "Ceny i dostępności wysyłki z Paczkomat mapuj z:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:3
+#: src/views/config-sections/tm-courier.view.php:4
+msgid "Package on Weekend (PWW) Courier:"
+msgstr "Paczka w Weekend (PWW) Kurier:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:115
+#: src/views/config-sections/tm-courier.view.php:118
+msgid "Cash on Delivery (COD) Courier:"
+msgstr "Pobranie (COD) Kurier:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/config-sections/tm-courier.view.php:266
+#: src/views/config-sections/tm-courier.view.php:271
+msgid "Prices and courier shipping availability map with:"
+msgstr "Ceny i dostępności wysyłki kurierem mapuj z:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:19
+#: src/views/orderMetaBox.php:19
+msgid "Shipment:"
+msgstr "Wysyłka:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:23
+#: src/views/orderMetaBox.php:23
+msgid "Inpost Parcel locker"
+msgstr "Inpost Paczkomat"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:23
+#: src/views/orderMetaBox.php:23
+msgid "Inpost Courier"
+msgstr "Inpost Kurier"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:30
+#: src/views/orderMetaBox.php:30
+msgid "Parcel locker:"
+msgstr "Paczkomat:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:41
+#: src/views/orderMetaBox.php:41
+msgid "Payment type:"
+msgstr "Typ płatności:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:52
+#: src/views/orderMetaBox.php:52
+msgid "Payment ID:"
+msgstr "ID Płatności:"
+
+#: ilabs-plugin-tools/build/inpost-pay/src/views/orderMetaBox.php:63
+#: src/views/orderMetaBox.php:63
+msgid "Payment Reference:"
+msgstr "Numer referencyjny płatności:"
+
+#: ilabs-plugin-tools/build/inpost-pay/system.php:48 system.php:49
+#, php-format
+msgid ""
+"PHP version is older than %s so this plugin will not work. Please contact "
+"your host and ask them to upgrade."
+msgstr ""
+"Wersja PHP jest starsza niż %s, dlatego wtyczka nie będzie działać. "
+"Skontaktuj się z dostawcą hostingu i poproś o aktualizację."
+
+#: ilabs-plugin-tools/build/inpost-pay/system.php:62 system.php:63
+#, php-format
+msgid "The required plugin: %s is installed but not activated."
+msgstr "Wymagana wtyczka: %s jest zainstalowana, ale nie jest aktywowana."
+
+#: ilabs-plugin-tools/build/inpost-pay/system.php:69 system.php:70
+#, php-format
+msgid "The required plugin: %s is not installed."
+msgstr "Wymagana wtyczka: %s nie jest zainstalowana."
+
+#: ilabs-plugin-tools/build/inpost-pay/system.php:88 system.php:89
+#, php-format
+msgid ""
+"The required PHP extensions: ( %s) are not installed. Please contact your "
+"host and ask them to install."
+msgstr ""
+"Wymagane rozszerzenia PHP: (%s) nie są zainstalowane. Skontaktuj się z "
+"dostawcą hostingu i poproś o ich instalację."
+
+#: src/Lib/Coupons/Coupon.php:40
+msgid "InpostPay"
+msgstr "InpostPay"
+
+#: src/Lib/Coupons/Coupon.php:63
+msgid "Promotion URL"
+msgstr "Adres do promocji"
+
+#: src/Lib/Coupons/Coupon.php:96
+msgid "Free shipping coupon"
+msgstr "Kupon darmowej wysyłki"
+
+#: src/Lib/Coupons/PromotionsAvailable.php:141
+#, php-format
+msgid "The minimum spend for this coupon is %s."
+msgstr "Minimalna wartość zamówienia dla tego Kodu Rabatowego to %s."
+
+#: src/Lib/omnibus/Hooks.php:161 src/Lib/omnibus/Plugin.php:135
+msgid ""
+"If you provide non-tax prices for this product, provide a non-tax Omnibus "
+"price. If you provide tax-inclusive prices for this product, provide the tax-"
+"inclusive Omnibus price."
+msgstr ""
+"Jeżeli dla tego produktu wprowadzasz ceny bez podatku, wprowadź cenę Omnibus "
+"bez podatku. Jeżeli dla tego produktu wprowadzasz ceny zawierające podatek, "
+"wprowadź opodatkowaną cenę Omnibus."
+
+#: src/views/admin.php:35
+msgid "The value repeats itself"
+msgstr "Wartość się powtarza"
+
+#: src/views/admin.php:35
+msgid "This field is required"
+msgstr "To pole jest wymagane"
+
+#: src/views/admin.php:44
+msgid "Marketing"
+msgstr "Marketing"
+
+#: src/views/config-sections/agreements.view.php:107
+#: src/views/config-sections/agreements.view.php:180
+#: src/views/config-sections/agreements.view.php:245
+#: src/views/config-sections/agreements.view.php:327
+msgid "Remove"
+msgstr "Usuń"
+
+#: src/views/config-sections/agreements.view.php:133
+#: src/views/config-sections/agreements.view.php:362
+msgid "Additional Consent Links:"
+msgstr "Dodatkowe linki:"
+
+#: src/views/config-sections/agreements.view.php:142
+#: src/views/config-sections/agreements.view.php:215
+msgid "Link identifier"
+msgstr "Identyfikator"
+
+#: src/views/config-sections/agreements.view.php:150
+#: src/views/config-sections/agreements.view.php:220
+msgid "Link label"
+msgstr "Tekst linku"
+
+#: src/views/config-sections/agreements.view.php:198
+#: src/views/config-sections/agreements.view.php:367
+msgid "Add additional link"
+msgstr "Dodaj dodatkowy link"
+
+#: src/views/config-sections/agreements.view.php:209
+msgid "Add Consent"
+msgstr "Dodaj zgodę"
+
+msgid "Order Attribution"
+msgstr "Atrybuty zamówienia"
+
+msgid "Order Attribution Overrides by InPost"
+msgstr "Nadpisuj atrybuty zamówienia przez InPost"
+
+msgid "Enables collection and saving of attribution data during purchases made via InpostPay. For more information on attribution, see the woocommerce documentation: https://woocommerce.com/document/order-attribution-tracking/"
+
+msgstr "Włącza zbieranie i zapisywanie danych atrybucji podczas zakupów dokonywanych przez InpostPay. Więcej informacji odnośnie atrybucji znajdziesz w dokumentacji woocomerce: https://woocommerce.com/document/order-attribution-tracking/"
+
+msgid "Overwrites the original attribution to the InpostPay attribution"
+msgstr "Nadpisuje oryginalną atrybucję na atrybucję InpostPay"
+
+#~ msgid "Debug mode"
+#~ msgstr "Tryb debugowania"
+
+#~ msgid "Package on the weekend"
+#~ msgstr "Paczka w Weekend"
+
+#~ msgid "Cash on delivery"
+#~ msgstr "Pobranie"
+
+#~ msgid "Before cart content slot 1"
+#~ msgstr "Przed zawartością koszyka slot 1"
+
+#~ msgid "Before cart content slot 2"
+#~ msgstr "Przed zawartością koszyka slot 2"
+
+#~ msgid "Before cart content slot 3"
+#~ msgstr "Przed zawartością koszyka slot 3"
+
+#~ msgid "After cart table"
+#~ msgstr "Po tabeli"
+
+#~ msgid "Before additional content"
+#~ msgstr "Przed zawartością koszyka"
+
+#~ msgid "After cart content"
+#~ msgstr "Po zawartości koszyka"
+
+#~ msgid "NIP"
+#~ msgstr "NIP"
+
+#~ msgid "Kupod dodany przy pomocy InPost Pay"
+#~ msgstr "Kupon dodany przy pomocy InPost Pay"
+
+#~ msgid "Yes:"
+#~ msgstr "Tak:"
+
+#~ msgid "No:"
+#~ msgstr "Nie:"
+
+#~ msgid "GUI Settings"
+#~ msgstr "Ustawienia GUI"
+
+#~ msgid "Before cart collaterals"
+#~ msgstr "Przed treścią dodatkową"
+
+#~ msgid "Before shipping in cart totals"
+#~ msgstr "Przed wysyłką"
+
+#~ msgid "After shipping in cart totals"
+#~ msgstr "Po wysyłce"
+
+#~ msgid "Before order total in cart totals"
+#~ msgstr "Przed sumą"
+
+#~ msgid "After order total in cart totals"
+#~ msgstr "Po sumie"
+
+#~ msgid "After cart"
+#~ msgstr "Po treści"
+
+#~ msgid "Enable debug log"
+#~ msgstr "Włącz dziennik debugowania"
+
+#~ msgid "Weekend Package (PWW) Courier:"
+#~ msgstr "Paczka w Weekend (PWW) Kurier:"
+
+#~ msgid "Weekend Package (PWW) Parcel Locker:"
+#~ msgstr "Paczka w Weekend (PWW) Paczkomat:"
+
+#~ msgid "Show more"
+#~ msgstr "Pokaż więcej"
+
+#~ msgid "Most common mistakes"
+#~ msgstr "Najczęściej spotykane błędy"
+
+#~ msgid "How to start?"
+#~ msgstr "Jak zacząć?"
+
+#~ msgid "If you enable it, debug logs will be generated"
+#~ msgstr "Jeśli włączysz, zostaną generowane debug logi"
+
+#~ msgid "Determine who the widget should be displayed to"
+#~ msgstr "Określ komu ma zostać wyświetlany widget"
+
+#~ msgid "Determines on which page the consent should be displayed"
+#~ msgstr "Określa na której stronie ma być wyświetlana zgoda"
+
+#~ msgid "Determines the displayed text"
+#~ msgstr "Określa wyświetlany tekst"
+
+#~ msgid "Determines whether the field should be required"
+#~ msgstr "Określa czy pole ma być wymagane"
+
+#~ msgid "Enables the display of the button"
+#~ msgstr "Włącza wyświetlanie przycisku"
+
+#~ msgid "Determines the placement of the button"
+#~ msgstr "Określa miejsce przycisku"
+
+#~ msgid "Determines the aligment of the button"
+#~ msgstr "Określa położenie przycisku"
+
+#~ msgid "Determines the top margin of the button"
+#~ msgstr "Określa margines górny przycisku"
+
+#~ msgid "Determines the bottom margin of the button"
+#~ msgstr "Określa margines dolny przycisku"
+
+#~ msgid "Determines the right margin of the button"
+#~ msgstr "Określa margines od prawej przycisku"
+
+#~ msgid "Determines the left margin of the button"
+#~ msgstr "Określa margines od lewej przycisku"
+
+#~ msgid "Determines the top padding of the button"
+#~ msgstr "Określa dopełnienie górne przycisku"
+
+#~ msgid "Determines the bottom padding of the button"
+#~ msgstr "Określa dopełnienie dolne przycisku"
+
+#~ msgid "Determines the right padding of the button"
+#~ msgstr "Określa dopełnienie od prawej przycisku"
+
+#~ msgid "Determines the left padding of the button"
+#~ msgstr "Określa dopełnienie od lewej przycisku"
+
+#~ msgid ""
+#~ "Determines the number of displayed suggested products in the InPost "
+#~ "application"
+#~ msgstr ""
+#~ "Określa ilość wyświetlanych sugerowanych produktów w aplikacji InPost"
+
+#~ msgid "Determines the shipping cost"
+#~ msgstr "Określa jaka kwota ma zostać dodana do ceny przesyłki"
+
+#~ msgid "Determines when the shipment can be dispatched"
+#~ msgstr "Określa kiedy przesyłka może zostać nadana"
+
+#~ msgid "Enter the InPost customer identifier"
+#~ msgstr "Wprowadź identyfikator klienta InPost"
+
+#~ msgid "Enter the secret InPost customer key"
+#~ msgstr "Wprowadź sekretny klucz klient InPost"
+
+#~ msgid "Enter the InPost customer pos identifier"
+#~ msgstr "Wprowadź pos identyfikator klienta InPost"
